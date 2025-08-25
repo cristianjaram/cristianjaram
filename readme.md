@@ -9,20 +9,33 @@
 
 ## 🛠️ Technologies & Tools
 
-```text
-Python  •  R  •  SQL  •  PyTorch  •  BigQuery  •  Supabase
-LangChain  •  Git/GitHub  •  n8n  •  Google Cloud Platform
-VSCode  •  JupyterLab  •  Slack Bots  •  AppScript
+Technologies:
 
-🌱 I’m currently learning
+- Python
+- R
+- SQL
+- PyTorch
+- BigQuery
+- Supabase
+- LangChain
+- Git/GitHub
+- n8n
+- Google Cloud Platform
+- VSCode
+- JupyterLab
+- Slack Bots
+- AppScript
 
-    ⚙️ MLOps & AI Infrastructure
+---
 
-    🤖 LLM-based architectures (RAG, LangChain, Embeddings)
+## 🌱 Currently Learning
 
-    📊 Business strategy & operations at scale  
+- ⚙️ MLOps & AI Infrastructure
+- 🤖 LLM-based architectures (RAG, LangChain, Embeddings)
+- 📊 Business strategy & operations at scale
 
+---
 
-📫 Let’s connect!
+## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/cristian-jara-murillo-903a57213/)
-- [Mail](mailto:cristian.jara.m@ug.uchile.cl)
+- [Email](mailto:cristian.jara.m@ug.uchile.cl)
