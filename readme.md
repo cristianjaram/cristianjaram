@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Cristian Jara
+# 👋
 
 🎓 **Industrial Engineering student** at the University of Chile, currently pursuing a **Master’s in Data Science**.
 
@@ -36,6 +36,6 @@ Technologies:
 
 ---
 
-## 📫 Let's connect!
+## 📫 
 - [LinkedIn](https://www.linkedin.com/in/cristian-jara-murillo-903a57213/)
 - [Email](mailto:cristian.jara.m@ug.uchile.cl)
